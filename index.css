@@ -47,17 +47,10 @@ body {
     margin-left: 25px;
 }
 
-.week li.actual h5 {
-    font-size: 20px;
+#infs {
     position: absolute;
-    transform: translateY(120px);
-    right: 1480px;
-}
-
-.week li.actual h3 {
-    font-size: 20px;
-    position: absolute;
-    transform: translateY(-50px);
-    right: 1500px;
-    color: rgb(255, 255, 255);
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, 600%);
+    color: rgba(255, 255, 255, 0.842);
 }
